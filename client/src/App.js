@@ -1,5 +1,5 @@
 import React from 'react';
-import { Provider } from 'redux';
+import { Provider } from 'react-redux';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import {
   ApolloClient,
